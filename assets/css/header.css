@@ -15,6 +15,15 @@
     position: relative;
 }
 
+#link_logo{
+    text-decoration: none;
+    color: var(--preto);
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+}
+
 .container{
     display: flex;
     align-items: center;
